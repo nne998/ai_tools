@@ -492,6 +492,42 @@
 - [Twinny](https://twinny.dev/) - 专为 VS Code 设计的AI代码补全插件
 - [Project IDX](https://idx.dev/) - 谷歌推出的AI云端开发和代码编辑器
 - [Sketch2Code](https://sketch2code.azurewebsites.net) - 微软AI Lab推出的将手绘草图转换成HTML代码工具
+- [腾讯云AI代码助手](https://cloud.tencent.com/product/acc) - 腾讯推出的AI编程辅助工具
+- [CodeFuse](https://codefuse.alipay.com/) - 蚂蚁集团推出的AI代码编程助手
+- [Tabby](https://tabby.tabbyml.com/) - 免费开源的自托管AI编程助手
+- [C知道](https://so.csdn.net/chat) - CSDN推出的AI技术问答工具
+- [驭码CodeRider](https://coderider.gitlab.cn/) - 极狐GitLab推出的AI编程与软件智能研发助手
+- [Duo Chat](https://about.gitlab.com/gitlab-duo/) - GitLab推出的AI编程助手
+- [CodeRabbit](https://coderabbit.ai/) - AI驱动的代码审查平台
+- [Augment](https://www.augmentcode.com/) - AI编程辅助工具，专为大型代码库设计
+- [Devin](https://preview.devin.ai/) - 首个全自主的AI软件工程师智能体
+- [Plandex](https://plandex.ai/) - 免费开源的基于终端的AI编程引擎
+- [Fitten Code](https://code.fittentech.com/) - 非十科技推出的免费AI代码助手
+- [BLACKBOX AI](https://www.useblackbox.io/) - 黑箱AI编程助理，快速代码生成
+- [Solo](https://soloist.ai/) - Mozilla推出的零编程无代码AI网站建设工具
+- [JetBrains AI](https://www.jetbrains.com/ai/) - JetBrains推出的AI编程开发助手
+- [CodeArts Snap](https://www.huaweicloud.com/product/codeartside/snap.html) - 华为云推出的智能编程助手
+- [AskCodi](https://www.askcodi.com) - 你的个人AI编程助手
+- [v0.dev](https://v0.dev/) - AI生成前端React/UI组件，由Vercel推出
+- [Boxy](https://codesandbox.io/blog/meet-boxy-ai-coding-assistant) - CodeSandbox推出的AI编程助手
+- [Quest AI](https://www.quest.ai/) - AI将设计稿生成React代码，支持JavaScript和TypeScript
+- [天工智码Skycode](https://sky-code.singularity-ai.com/index.html#) - AI智能编程助手，轻松生成各种代码
+- [JamGPT](https://jam.dev/jamgpt) - AI Debug调试助手
+- [aiXcoder](https://www.aixcoder.com) - 自然语言到代码的方法级代码生成，以及多行智能代码补全
+
+## AI 搜索引擎
+- [夸克AI](https://b.quark.cn/apps/qkhomepage_twofoufeb/routes/model) - 集AI搜索、网盘、文档、创作等功能于一体的应用
+- [Perplexity](https://www.perplexity.ai/) - 强大的对话式AI搜索引擎
+- [SearchGPT](https://ai-bot.cn/sites/14609.html) - OpenAI最新推出的AI搜索引擎，内测开放
+- [AMiner](https://www.aminer.cn/) - 智谱AI推出的大模型学术平台
+- [Lumina](https://lumina.sh/) - 完全免费的AI学术搜索引擎
+- [知乎直答](https://zhida.zhihu.com/) - 知乎推出的AI搜索引擎，直达问题答案
+- [Exa AI](https://exa.ai/) - 专门为AI模型设计的搜索引擎平台
+- [心流](https://iflow.cn/) - 阿里旗下推出的AI搜索助手
+- [Felo](https://felo.ai/search) - 免费AI智能搜索引擎，支持社交联网搜索和多语种问答结果
+- [博查AI搜索](https://bochaai.com) - 支持多模型的AI搜索引擎
+- [Reddo](https://www.reddo.cloud/search_home) - 全球产品信息AI搜索引擎，能语义化搜索任何公开的产品与公司
+- [360AI搜索](https://so.360.com/) - 360推出的新一代AI搜索引擎
 智谱清言 -- 免费全能的AI助手，支持AI绘画、视频生成, https://chatglm.paluai.com/qingyan
 绘蛙 -- 阿里推出的AI营销工具，可生成图片和文案, https://ihuiwa.paluai.com
 Kimi智能助手 -- 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手, https://kimi.moonshot.cn/
