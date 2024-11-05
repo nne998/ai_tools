@@ -528,6 +528,72 @@
 - [博查AI搜索](https://bochaai.com) - 支持多模型的AI搜索引擎
 - [Reddo](https://www.reddo.cloud/search_home) - 全球产品信息AI搜索引擎，能语义化搜索任何公开的产品与公司
 - [360AI搜索](https://so.360.com/) - 360推出的新一代AI搜索引擎
+- [天工AI搜索](https://search.tiangong.cn/) - 昆仑万维最新推出的结合大模型的AI搜索引擎
+- [XAnswer](https://www.xanswer.com/) - 支持生成思维导图的免费AI搜索工具
+- [链企AI](https://www.lianqiai.cn/) - 链企智能推出的AI商业搜索工具
+- [Flowith](https://flowith.io/invitation) - 节点交互式AI搜索和对话工具
+- [Genspark](https://www.genspark.ai/) - 基于智能体的AI搜索引擎
+- [问问小宇宙](https://ask.xiaoyuzhoufm.com/) - 小宇宙推出的AI搜索产品
+- [Dexa AI](https://dexa.ai/) - AI播客搜索工具
+- [Devv](https://devv.ai/zh) - 面向程序员的新一代AI搜索引擎
+- [CuspAI](https://www.cusp.ai/) - 剑桥大学推出的材料学专业AI搜索工具
+- [开搜AI](https://kaisouai.com) - 面向大众的免费AI问答搜索引擎
+- [Adot](https://www.adot.tech/) - 一个由AI驱动的 Web3 搜索引擎
+- [Glean](https://www.glean.com/) - 专为职场人设计的AI搜索引擎
+- [AlphaSense](https://www.alpha-sense.com/) - 专为金融专业人士设计的AI搜索工具
+- [Globe Explorer](https://explorer.globe.engineer/) - 结构化AI知识搜索引擎
+- [Reportify](https://reportify.cc/) - AI投资研究问答搜索引擎
+- [Phind](https://www.phind.com/) - 专为开发者设计的AI搜索引擎
+- [iAsk AI](https://iask.ai/) - 快速准确的AI搜索引擎
+- [Consensus](https://consensus.app/) - AI科研学术搜索引擎
+- [Komo Search](https://komo.ai/) - 简洁直观的AI搜索引擎
+- [Searcholic](https://searcholic.com/) - AI驱动的电子书和文档搜索引擎
+- [Andi](https://andisearch.com/) - 对话式人工智能搜索引擎
+- [Songtell](https://www.songtell.com/) - AI驱动的音乐百科搜索引擎
+- [ThinkAny](https://thinkany.ai/zh) - 新时代的AI搜索引擎
+- [Miku](https://www.hellomiku.com/) - 快速精准的AI搜索引擎
+- [Qdrant](https://qdrant.tech/) - 开源的向量数据库和向量相似性AI搜索引擎
+
+## AI 音乐和语音工具
+- [魔音工坊](https://www.moyin.com/) - AI配音工具，轻松配出媲美真人的声音
+- [听脑AI](https://itingnao.com/) - 人工智能语音录音记录助手
+- [讯飞听见](https://www.iflyrec.com/zhuanwenzi.html) - 科大讯飞推出的在线AI语音转文字工具
+- [Suno](https://www.suno.ai/) - 高质量的AI音乐创作平台
+- [海绵音乐](https://www.haimian.com/) - 字节跳动推出的免费AI音乐创作和发现平台
+- [音疯](https://www.yinfeng.cn/home) - 昆仑万维推出的AI音乐创作平台，一键生成原创歌曲
+- [琅琅配音](https://lang123.top/) - 智能文本转语音工具
+- [Reecho睿声](https://www.reecho.ai/) - 超拟真的中英文AI语音克隆/生成平台
+- [MemoAI](https://memo.ac/) - 免费的AI语音转文字工具
+- [Udio](https://www.udio.com/) - 免费的AI音乐创作工具，每月可生成1200首歌曲
+- [网易天音](https://tianyin.163.com) - 网易推出的一站式AI音乐创作工具
+- [TME Studio](https://y.qq.com/tme_studio/index.html#) - 腾讯音乐推出的智能音乐创作助手
+- [Lyrics Into Song AI](https://lyricsintosong.ai/zh) - 在线AI音乐创作工具，输入歌词创建个性化歌曲
+- [Stable Audio](https://www.stableaudio.com/) - Stability AI最新推出的音乐生成工具
+- [TextToSpeech](https://texttospeech.im/zh-CN) - 完全免费的AI文字转语音工具
+- [TTSMaker](https://ttsmaker.cn/) - 马克配音（MakVoice）推出的免费AI文字转语音工具
+- [LOVO AI](https://lovo.ai/) - 专业的AI文字转语音工具，支持500+声音和100种语言
+- [Uberduck](https://uberduck.ai/) - 开源的AI语音生成社区，5000多种不同的声音
+- [ElevenLabs](https://try.elevenlabs.io/mqbahm8egbk8) - AI文本转语音，支持包含中文在内的28种语言
+- [Sonauto](https://sonauto.ai/) - 免费的AI音乐生成和歌曲创作工具
+- [讯飞智作](https://peiyin.xunfei.cn/) - 科大讯飞推出的AI转语音和配音工具
+- [天工SkyMusic](https://music.tiangong.cn/) - 昆仑万维发布的国内首个AI音乐生成大模型
+- [大饼AI变声](https://dubbing.tech/) - 免费专业的AI变声软件，一键实时语音变声
+- [Supertone Shift](https://product.supertone.ai/shift) - AI驱动的实时语音变换软件
+- [Riffusion](https://www.riffusion.com) - AI生成不同风格的音乐，免费开源
+- [Adobe Podcast](https://podcast.adobe.com) - Adobe推出的在线AI音频录制和编辑工具
+- [网易云音乐·X Studio](https://xstudio.music.163.com/) - 网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件
+- [刺鸟配音](https://www.icnpy.com/) - 刺鸟科技推出的专业AI配音工具
+- [Wondercraft](https://www.wondercraft.ai/) - AI音频内容生成工具，可创建播客有声书等
+- [Fryderyk](https://fryderyk.ai/) - AI音乐创作工具，集成了多种乐器声音
+- [Voicenotes](https://voicenotes.com/) - AI驱动的语音笔记工具
+- [OptimizerAI](https://www.optimizerai.xyz/) - AI声音效果生成工具
+- [ACE Studio](https://ace-studio.timedomain.cn) - AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声
+- [蓝藻AI](https://aigc.unisound.com/) - 云知声旗下的AI配音和声音克隆平台
+- [Deepgram](https://deepgram.partnerlinks.io/ai-bot) - 快速低成本的AI语音文本互转API平台
+- [Audiobox](https://audiobox.metademolab.com/) - Meta推出的免费开源的AI语音和声音生成模型
+- [RESEMBLE.AI](https://www.resemble.ai) - AI人声生成工具
+- [IBM Watson文字转语音](https://www.ibm.com/cloud/watson-text-to-speech) - IBM Watson文字转语音
+- [FakeYou](https://fakeyou.com) - Deep Fake文本转语音
 智谱清言 -- 免费全能的AI助手，支持AI绘画、视频生成, https://chatglm.paluai.com/qingyan
 绘蛙 -- 阿里推出的AI营销工具，可生成图片和文案, https://ihuiwa.paluai.com
 Kimi智能助手 -- 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手, https://kimi.moonshot.cn/
