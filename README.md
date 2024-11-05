@@ -362,6 +362,136 @@
 - [通义晓蜜](https://tongyi.aliyun.com/xiaomi) - 阿里推出的企业智能服务解决方案
 - [奇妙问](https://aiask365.com/) - 企业AI数字员工生成平台
 - [NotebookLM](https://notebooklm.google/) - 谷歌推出的AI笔记应用，5分钟生成一段对话播客
+- [小微助手](https://xiaowei.weixin.qq.com/next) - 微信推出的桌面端AI效率助手工具
+- [影刀AI Power](https://www.yingdao.com/ai-power/) - 面向企业的无代码AI开发和集成平台
+- [通答AI](https://www.tongdaai.com/) - 企业AI数字员工生成平台
+- [司马诸葛](https://smartchoose.cn/) - 企业级AI数字员工平台
+- [靠谱AI](https://www.kaopuai.com/) - 无代码AI机器人创建平台
+- [Einstein Copilot](https://www.salesforce.com/einsteincopilot) - Salesforce推出的CRM系统AI对话助手
+- [Zapier AI](https://zapier.com/ai) - Zapier推出的AI自动化集成功能
+- [怪兽AI知识库](https://www.guaishouai.net/) - 企业知识库大模型 + 智能AI问答机器人
+- [熊猫办公](https://www.tukuppt.com/) - AI办公服务平台，提供PPT模板、Excel模板、Word模板等资源
+- [小易AI](https://ai.eqxiu.com/) - 易企秀推出的AI办公工具
+
+## AI 浏览器助手
+- [Monica](http://monica.im) - ChatGPT驱动的Chrome浏览器AI助手插件
+- [Merlin](https://merlin.foyer.work) - 基于ChatGPT的Chrome浏览器扩展，浏览任意网页时利用GPT
+- [Raycast AI](https://www.raycast.com/ai) - Raycast推出的Mac AI助手，智能写作、编程、回答问题等
+
+## AI 时间管理工具
+- [Timely](https://timelyapp.com) - AI时间管理跟踪软件
+
+## AI 简历生成工具
+- [职徒简历](https://www.52cv.com) - 智能简历制作软件，基于GPT的简历优化和简历代写
+- [职得简历](https://www.zdjianli.cn/) - 在线AI简历生成工具
+- [神笔简历](https://jianli.jiuyeqiao.cn/#/index/index) - AI简历云平台，专为求职者提供一站式求职服务
+- [蓝字典AI求职](https://www.lanzidian.com/) - AI求职工具，提供AI简历生成、AI模拟面试服务
+- [YOO简历](https://www.yoojober.com/) - 必优科技推出的AI简历生成工具
+
+## AI 设计工具
+- [稿定AI](https://www.gaoding.com/utms/1591aff1eb344c64a364a5e6dd7fcbdd) - 一站式AI创作和设计平台
+- [美间AI](https://www.meijian.com/ai) - 免费AI设计工具助手，智能海报、提案和商品图生成
+- [创客贴AI](https://aiart.chuangkit.com/matrix) - AI辅助的智能在线设计工具
+- [Figma AI](https://www.figma.com/ai/) - Figma推出的原生AI设计工具
+- [Microsoft Designer](https://designer.microsoft.com) - 微软推出的在线设计海报和宣传图工具
+- [爱设计](https://www.isheji.com/) - AI在线设计平台，提供多端在线拖拽设计工具
+- [魔力工作室](https://www.canva.cn/magic/) - Canva可画推出的一站式AI创作套件
+- [智绘设计](https://taishan.qq.com/brand/) - 腾讯推出的智能设计平台，让内容更精彩
+- [Looka](https://looka.com) - AI在线设计和生成logo
+- [Recraft AI](https://www.recraft.ai/) - 免费无限AI画板，生成高质量矢量艺术画、图标、3D图片和插画
+- [即时AI](https://jsai.cc/ai/create) - 即时设计推出的由文本描述生成可编辑的原型设计稿
+- [135 AI排版](https://www.135editor.com/ai_editor/) - 公众号AI图文排版和智能文案生成工具
+- [墨刀AI](https://modao.cc/feature/ai.html) - 墨刀推出的AI产品原型设计助手
+- [FigJam AI](https://www.figma.com/figjam/ai) - Figma推出的AI白板协作设计工具
+- [鹿班](https://luban.aliyun.com/) - 阿里推出的智能设计商品图和海报的平台
+- [MasterGo AI](https://mastergo.com/upcoming-ai/apply) - 国产产品设计工具MasterGo推出的智能UI设计助手
+- [Magic Design](https://www.canva.com/magic-design) - 在线设计工具Canva推出的AI设计工具
+- [简单设计](https://www.jiandan.link/) - 免费的在线设计、图片处理工具
+- [比格AI设计](https://bigesj.com/) - AI设计工具合集，包括文生图、智能消除等，注册免费体验。
+- [豆绘AI](https://www.douhuiai.com/) - AI绘图设计平台，一键生成720°VR全景图
+- [VoxCraft](https://voxcraft.ai/) - AI生成3D模型的工具
+- [Pictographic](https://pictographic.io/) - AI插图资源库和生成平台
+- [Fable Prism](https://www.fable.app/prism) - AI动效设计和动画效果制作工具
+- [Wegic](https://wegic.ai/) - AI网页设计和建站开发工具
+- [匠紫](https://jiangziai.com/) - 一站式AI设计工具
+- [Collov AI](https://collov.cn/) - AI室内家居设计生成平台
+- [包图网AI素材库](https://ibaotu.com/tupian/shuziyishu.html) - 包图网提供的特色图库服务
+- [易可图](https://www.yiketu.com/) - 免费的AI图片编辑和海报设计平台
+- [Creatie](https://creatie.ai/) - AI驱动的UI和UX设计工具
+- [Kittl](https://www.kittl.com/) - AI驱动的平面图形设计工具
+- [Stylar](https://www.stylar.ai/) - 一站式AI图像编辑和设计工具
+- [Ilus AI](https://ilus.ai/) - AI插画插图生成工具
+- [酷家乐AI](https://www.kujiale.cn/activities/AI-kujiale) - 功能强大的AI家居设计软件
+- [Pixso AI](https://pixso.cn/) - 国产在线设计工具Pixso的内置AI助手，支持AI文生图、AI对话、AI设计等
+- [Framer AI](https://www.framer.com/ai) - Framer推出的AI网站自动设计、生成和上线
+- [LogoliveryAI](https://logolivery.ai/) - 免费的AI Logo生成器，提供SVG矢量格式
+- [Motiff 妙多](https://motiff.com/) - 猿辅导旗下推出的AI界面设计工具
+- [Pimento](https://www.pimento.design/) - 人工智能驱动的设计创意和视觉参考平台
+- [Logo Diffusion](https://logodiffusion.com/) - AI驱动的Logo和标志生成工具
+
+## AI 对话助手
+- [Kimi智能助手](https://kimi.moonshot.cn/) - 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手
+- [豆包](http://dis.haodxi.cn/dbff/dbaiboa2.html) - 字节跳动推出的免费AI对话助手
+- [ChatGPT](https://ai-bot.cn/sites/30.html) - OpenAI旗下AI对话工具
+- [Copilot](https://copilot.microsoft.com) - 微软推出的网页版Copilot助手
+- [Bing新必应](https://ai-bot.cn/sites/457.html) - 微软推出的新版结合了ChatGPT功能的必应
+- [Claude](https://ai-bot.cn/sites/460.html) - ChatGPT的最为有力的竞争对手之一
+- [海螺AI](https://hailuoai.com/) - MiniMax推出的免费AI智能聊天助理
+- [腾讯元宝](https://yuanbao.tencent.com/) - 腾讯推出的免费AI智能助手
+- [文心一言](https://yiyan.baidu.com/) - 百度推出的基于文心大模型的AI对话互动工具
+- [通义千问](https://tongyi.aliyun.com/qianwen/) - 阿里推出的自研大模型，通情、达义，你的全能AI助手！
+- [百小应](https://ying.baichuan-ai.com/chat) - 百川智能推出的免费AI助手
+- [Grok](https://grok.x.ai) - 马斯克旗下xAI推出的人工智能助手
+- [Character.AI](https://ai-bot.cn/sites/137.html) - 创建虚拟角色并与其对话
+- [Google Bard](https://ai-bot.cn/sites/736.html) - Google推出的AI聊天对话机器人Bard
+- [Meta AI助手](https://www.meta.ai/) - Meta推出的免费AI聊天助手
+- [Koko AI](https://www.seeles.ai/) - Seele公司推出的「AI+3D」情感陪伴产品
+- [Ohai](https://beta.ohai.bot/discover) - 月之暗面旗下推出的AI角色扮演虚拟陪伴应用
+- [DeepSeek](https://www.deepseek.com/) - 幻方量化旗下深度求索推出的开源大模型和聊天助手
+- [Me.bot](https://www.me.bot/) - 心识宇宙推出的个性化AI伴侣产品
+- [问小白](https://www.wenxiaobai.com/) - 元石科技（基于自研元石大模型）推出的AI智能助手
+- [Saylo](https://www.sayloai.com/) - AI驱动的故事角色扮演游戏应用，沉浸式的剧本互动体验
+- [通义星尘](https://tongyi.aliyun.com/xingchen/) - 用AI定制属于你自己的IP角色
+- [CueMe](https://cueme.cn/) - 夸克推出的AI智能对话助手，支持2万字长文写作
+- [造梦次元](https://ciyuan.ideaflow.pro/) - AI互动内容平台，虚拟角色逗你开心
+- [Museland](https://www.museland.ai/) - 沉浸式AI角色扮演产品
+- [小悟空](https://wukong.com/tool) - 字节跳动推出的免费AI对话助手和个人助理
+- [紫东太初](https://taichu-web.ia.ac.cn/#/welcome) - 中科院与武智院推出的千亿参数全模态大模型和助手
+- [小黄蕉](https://chatwiz.cn/h5/feely) - 字节跳动旗下推出的AI虚拟交友聊天平台
+- [冒泡鸭](https://maopaoya.com/) - 阶跃星辰推出的AI聊天机器人和智能体平台
+- [跃问](https://yuewen.cn/chats/new) - 阶跃星辰推出的支持多模态的AI聊天机器人
+- [逗逗](https://www.doudou.fun/) - 专为二次元用户设计的AI桌宠应用
+- [Cici](https://www.ciciai.com/browser-extension/landing/zh/) - 豆包国际版，字节跳动面向海外市场推出的AI助手
+- [商量SenseChat](https://chat.sensetime.com/wb/home) - 商汤科技推出的免费AI聊天助手
+- [百川大模型](https://chat.baichuan-ai.com/home) - 百川智能推出的大模型助手，融合了意图理解、信息检索以及强化学习技术
+- [Le Chat](https://chat.mistral.ai/) - Mistral推出的AI对话聊天助手
+- [百度AI伙伴](https://chat.baidu.com) - 百度最新上线的AI搜索对话工具
+- [超级助理](https://cloud.baidu.com/product/infoflow.html) - 百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”
+- [百度AI助手](https://chat.baidu.com/) - 百度推出的多场景AI智能体助手
+- [钉钉·个人版](https://workspace.dingtalk.com/welcome) - 钉钉推出的个人版办公应用程序，内置AI智能助手，可进行AI创作、AI对话、AI绘画
+- [Wanderboat](https://wanderboat.ai/) - 硅谷初创公司UTA AI推出的AI旅行助手
+
+## AI 编程助手
+- [豆包MarsCode](https://marscode.cn/) - 字节推出的免费AI编程助手，基于豆包大模型
+- [通义灵码](https://tongyi.aliyun.com/lingma) - 阿里推出的免费AI编程工具，基于通义大模型
+- [代码小浣熊Raccoon](https://raccoon.sensetime.com/code) - 商汤科技推出的免费AI编程助手
+- [BigModel](https://bigmodel.cn/login) - 智谱AI推出的大模型开发平台，新用户免费领取1亿Tokens
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub推出的AI编程工具
+- [CodeWhisperer](https://aws.amazon.com/codewhisperer) - 亚马逊推出的免费AI编程助手
+- [文心快码](https://comate.baidu.com/) - 百度推出的AI编程助手，基于文心大模型
+- [Genie](https://ai-bot.cn/genie) - Cosine AI推出的AI编程助手
+- [Cursor](https://www.cursor.com/) - AI代码编辑器，快速进行编程和软件开发
+- [Replit Agent](https://ai-bot.cn/replit-agent) - AI初创公司Replit推出的AI编程工具
+- [CodeGeeX](https://codegeex.cn/zh-CN) - 智谱AI推出的免费AI编程助手
+- [iFlyCode](https://iflycode.xfyun.cn/) - 科大讯飞推出的智能编程助手
+- [Bolt.new](https://ai-bot.cn/bolt%E2%80%A4new) - StackBlitz 推出的全栈AI代码工具，可以看作 Artfacts、V0 和 Replit 的结合体
+- [Codeium](https://www.codeium.com) - 免费的AI编程工具，智能生成和补全代码
+- [Cody](https://about.sourcegraph.com/cody) - Sourcegraph推出的免费AI编程工具
+- [DevChat](https://www.devchat.ai/zh) - 开源的支持多款大模型的AI编程助手
+- [CodiumAI](https://www.codium.ai) - 免费的AI代码测试和分析工具
+- [Twinny](https://twinny.dev/) - 专为 VS Code 设计的AI代码补全插件
+- [Project IDX](https://idx.dev/) - 谷歌推出的AI云端开发和代码编辑器
+- [Sketch2Code](https://sketch2code.azurewebsites.net) - 微软AI Lab推出的将手绘草图转换成HTML代码工具
 智谱清言 -- 免费全能的AI助手，支持AI绘画、视频生成, https://chatglm.paluai.com/qingyan
 绘蛙 -- 阿里推出的AI营销工具，可生成图片和文案, https://ihuiwa.paluai.com
 Kimi智能助手 -- 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手, https://kimi.moonshot.cn/
