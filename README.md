@@ -404,14 +404,14 @@
 
 ## AI 大模型
 - **ChatGPT**: OpenAI 最新发布的多模态 AI 大模型，可自然流畅地进行语音对话, https://openai.com
-- **Claude 3.5**：由 Anthropic 推出的 AI 大模型，专注于对话和自然语言理解，具备优秀的上下文理解和信息提取能力，https://www.anthropic.com
+- **Claude**：由 Anthropic 推出的 AI 大模型，专注于对话和自然语言理解，具备优秀的上下文理解和信息提取能力，https://www.anthropic.com
 - **文心一言**: 百度推出的产业级知识增强大模型“文心大模型”的最新版本，具备更强的中文创作能力、复杂语境下的逻辑推理能力，以及可靠的任务执行能力, https://wenxin.baidu.com
 - **通义千问**: 阿里巴巴推出的大模型，具备强大的自然语言处理能力, https://qwen.aliyun.com
 - **豆包**: 字节跳动推出的高性能AI大模型，专注于自然语言处理和生成，支持多种语言的文本分析与生成, https://doubao.com
 - **Gemini**: Google推出的多模态AI大模型，具备图像识别、文本生成和语音处理能力，适用于多领域的智能应用开发。https://gemini.google.com
 - **星火大模型**: 科大讯飞推出的新一代大模型，具备更强的语言理解和生成能力, https://xinghuo.xfyun.cn
-- **Llama 3**: Meta 最新开源的新一代大模型 Llama 3.1，参数规模为 70B，针对指令进行了优化, https://llama.meta.com/llama3
-- **智谱GLM4**: 智谱 AI 推出的 GLM-4 系列新模型，支持长文本处理, https://www.zhipu.ai
+- **Llama**: Meta 最新开源的新一代大模型 Llama 3.1，参数规模为 70B，针对指令进行了优化, https://llama.meta.com/llama3
+- **智谱GLM**: 智谱 AI 推出的 GLM-4 系列新模型，支持长文本处理, https://www.zhipu.ai
 - **百川大模型**: 百度推出的 Baichuan 系列最新大模型, https://www.baichuan-ai.com
 - **商汤商量**: 商汤科技的 SenseChat 大模型的高效版本, https://www.sensetime.com
 
