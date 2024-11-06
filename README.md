@@ -2,10 +2,10 @@
 ## AI 助手
 - **智谱清言**: 免费全能的AI助手，支持AI绘画、视频生成, https://chatglm.paluai.com/qingyan
 - **Kimi智能助手**: 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手, https://kimi.moonshot.cn
-- **Coze**: 字节跳动零代码 AI 应用开发平台, http://dis.csqixiang.cn/unpo/cozeaibot.html
+- **Coze**: 字节跳动零代码 AI 应用开发平台, https://www.coze.cn
 - **ChatGPT**: OpenAI旗下AI对话工具, https://chat.openai.com
 - **讯飞写作**: 科大讯飞推出的AI智能写作助手, https://huixie.iflyrec.com/list
-- **豆包**: 字节跳动推出的免费AI对话助手, http://dis.haodxi.cn/dbff/dbaiboa2.html
+- **豆包**: 字节跳动推出的免费AI对话助手, https://www.doubao.com
 - **Copilot**: 微软推出的网页版Copilot助手, https://copilot.microsoft.com
 - **Bing新必应**: 微软推出的新版结合了ChatGPT功能的必应, https://www.bing.com/new
 - **Claude**: ChatGPT的最为有力的竞争对手之一, https://www.anthropic.com/
@@ -19,7 +19,7 @@
 - **Google Gemini**: Google推出的AI聊天对话机器人Bard, https://gemini.google.com
 - **Meta AI助手**: Meta推出的免费AI聊天助手, https://www.meta.ai
 - **Koko AI**: Seele公司推出的「AI+3D」情感陪伴产品, https://www.seeles.ai
-- **Ohai**: 月之暗面旗下推出的AI角色扮演虚拟陪伴应用, https://beta.ohai.bot/discover
+- **Ohai**: 月之暗面旗下推出的AI角色扮演虚拟陪伴应用, https://www.ohai.ai
 - **DeepSeek**: 幻方量化旗下深度求索推出的开源大模型和聊天助手, https://www.deepseek.com
 - **Me.bot**: 心识宇宙推出的个性化AI伴侣产品, https://www.me.bot
 - **问小白**: 元石科技（基于自研元石大模型）推出的AI智能助手, https://www.wenxiaobai.com
@@ -57,12 +57,12 @@
 - **橙篇**: 百度推出的AI长文理解和内容创作工具, https://cp.baidu.com
 - **Notion AI**: Notion推出的AI内容创作助手, https://www.notion.so/
 - **Jasper**: AI文字内容创作工具, https://www.jasper.ai
-- **66AI论文**: 高质量、低查重、低AIGC率的AI论文写作工具, https://www.66paper.cn/AI_A2E1C09
+- **66AI论文**: 高质量、低查重、低AIGC率的AI论文写作工具, https://www.66paper.cn/
 - **创一AI**: AI短视频脚本创作工具, https://www.creatifyone.com
 - **Rytr**: AI内容生成和写作助手, https://rytr.me
 - **深言达意**: 免费的词句查询智能写作辅助工具，输入模糊描述即可查找词句, https://www.shenyandayi.com
 - **讯飞绘文**: 免费AI写作工具，5分钟生成一篇原创稿！, https://turbodesk.xfyun.cn
-- **小鱼AI写作**: 一站式AI写作平台，一键生成高质量原创内容, https://www.xiaoyuxiezuo.com/AI_A2E1C09
+- **小鱼AI写作**: 一站式AI写作平台，一键生成高质量原创内容, https://www.xiaoyuxiezuo.com/
 - **千笔AI论文**: 全网首家论文无限改稿平台, https://www.aipaperpass.com
 - **MidReal**: AI互动式小说文本生成工具, https://midreal.ai
 - **FlowUs AI**: 在线文档平台息流推出的AI创作助手，类似于Notion AI, https://flowus.cn/ai
