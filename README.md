@@ -3,20 +3,20 @@
 - 智谱清言: 免费全能的AI助手，支持AI绘画、视频生成, https://chatglm.paluai.com/qingyan
 - Kimi智能助手: 一次搜索可精读500个页面，会推理解析，能深度思考的AI助手, https://kimi.moonshot.cn
 - Coze: 字节跳动零代码 AI 应用开发平台, http://dis.csqixiang.cn/unpo/cozeaibot.html
-- ChatGPT: OpenAI旗下AI对话工具, https://ai-bot.cn/sites/30.html
+- ChatGPT: OpenAI旗下AI对话工具, https://chat.openai.com
 - 讯飞写作: 科大讯飞推出的AI智能写作助手, https://huixie.iflyrec.com/list
 - 豆包: 字节跳动推出的免费AI对话助手, http://dis.haodxi.cn/dbff/dbaiboa2.html
 - Copilot: 微软推出的网页版Copilot助手, https://copilot.microsoft.com
-- Bing新必应: 微软推出的新版结合了ChatGPT功能的必应, https://ai-bot.cn/sites/457.html
-- Claude: ChatGPT的最为有力的竞争对手之一, https://ai-bot.cn/sites/460.html
+- Bing新必应: 微软推出的新版结合了ChatGPT功能的必应, https://www.bing.com/new
+- Claude: ChatGPT的最为有力的竞争对手之一, https://www.anthropic.com/
 - 海螺AI: MiniMax推出的免费AI智能聊天助理, https://hailuoai.com
 - 腾讯元宝: 腾讯推出的免费AI智能助手, https://yuanbao.tencent.com
 - 文心一言: 百度推出的基于文心大模型的AI对话互动工具, https://yiyan.baidu.com
 - 通义千问: 阿里推出的自研大模型，通情、达义，你的全能AI助手！, https://tongyi.aliyun.com/qianwen
 - 百小应: 百川智能推出的免费AI助手, https://ying.baichuan-ai.com/chat
 - Grok: 马斯克旗下xAI推出的人工智能助手, https://grok.x.ai
-- Character.AI: 创建虚拟角色并与其对话, https://ai-bot.cn/sites/137.html
-- Google Bard: Google推出的AI聊天对话机器人Bard, https://ai-bot.cn/sites/736.html
+- Character.AI: 创建虚拟角色并与其对话, https://character.ai
+- Google Gemini: Google推出的AI聊天对话机器人Bard, https://gemini.google.com
 - Meta AI助手: Meta推出的免费AI聊天助手, https://www.meta.ai
 - Koko AI: Seele公司推出的「AI+3D」情感陪伴产品, https://www.seeles.ai
 - Ohai: 月之暗面旗下推出的AI角色扮演虚拟陪伴应用, https://beta.ohai.bot/discover
@@ -55,11 +55,11 @@
 - 墨狐AI: 短篇小说AI写作助手，专为网文小说作者设计, https://inkfox-ai.com
 - 火山写作: 字节跳动旗下推出的免费AI写作助手, https://writingo.net/document
 - 橙篇: 百度推出的AI长文理解和内容创作工具, https://cp.baidu.com
-- Notion AI: Notion推出的AI内容创作助手, https://ai-bot.cn/sites/189.html
-- Jasper: AI文字内容创作工具, https://ai-bot.cn/sites/14.html
+- Notion AI: Notion推出的AI内容创作助手, https://www.notion.so/
+- Jasper: AI文字内容创作工具, https://www.jasper.ai
 - 66AI论文: 高质量、低查重、低AIGC率的AI论文写作工具, https://www.66paper.cn/AI_A2E1C09
 - 创一AI: AI短视频脚本创作工具, https://www.creatifyone.com
-- Rytr: AI内容生成和写作助手, https://ai-bot.cn/sites/46.html
+- Rytr: AI内容生成和写作助手, https://rytr.me
 - 深言达意: 免费的词句查询智能写作辅助工具，输入模糊描述即可查找词句, https://www.shenyandayi.com
 - 讯飞绘文: 免费AI写作工具，5分钟生成一篇原创稿！, https://turbodesk.xfyun.cn
 - 小鱼AI写作: 一站式AI写作平台，一键生成高质量原创内容, https://www.xiaoyuxiezuo.com/AI_A2E1C09
@@ -70,14 +70,14 @@
 - 迅捷AI写作: 迅捷办公团队推出的AI写作工具, https://www.aichat1234.com/app
 - 晓语台: 智能AI写作工具，内置500+创作模板, https://www.xiaoyutai.com
 - 万能小in: AI写作助手，3分钟5万字论文初稿一键生成, https://xiaoin.cn/home/index
-- Copy.ai: 人工智能营销文案和内容创作工具, https://ai-bot.cn/sites/31.html
+- Copy.ai: 人工智能营销文案和内容创作工具, https://www.copy.ai
 - QuillBot: AI英/德语写作润色和改进工具, https://try.quillbot.com
 - Grammarly: AI英语语法和拼写检查写作助手, https://www.grammarly.com
 - 库宝AI工作助手: 千库网推出的多功能AI创作工具, https://588tool.com
 - 文状元: AI公文写作助手，提供大量范文库, https://www.wenzhuangyuan.cn/workspace/writing-store
-- Writesonic: AI写作，文案，释义工具, https://ai-bot.cn/sites/32.html
+- Writesonic: AI写作，文案，释义工具, https://writesonic.com
 - DeepL Write: DeepL推出的AI驱动的写作助手, https://www.deepl.com/write
-- Jenni: AI研究文章和博客写作辅助工具, https://ai-bot.cn/sites/2304.html
+- Jenni: AI研究文章和博客写作辅助工具, https://jenni.ai
 - 秘塔写作猫: AI写作，文章自成, https://xiezuocat.com
 - 茅茅虫论文写作: 一站式AI论文写作助手, https://mymmc.cn
 - 有道翻译·AI写作: 网易有道推出的智能写作辅助工具，支持100多种语言, https://fanyi.youdao.com/aiwrite
@@ -96,7 +96,7 @@
 - 笔魂AI绘画: 免费AI在线生图工具, https://ibihun.com
 - 阿贝智能: 一站式AI绘本创作平台，副业变现必备, https://abeiai.com
 - Midjourney: AI图像和插画生成工具, https://www.midjourney.com/home
-- Stable Diffusion: StabilityAI推出的文本到图像生成AI, https://ai-bot.cn/sites/123.html
+- Stable Diffusion: StabilityAI推出的文本到图像生成AI, https://stability.ai
 - 堆友AI反应堆: 阿里旗下堆友推出的多风格AI绘画生成器, https://d.design
 - 可灵AI: 快手推出的AI图像和视频创作平台, https://klingai.kuaishou.com
 - AI改图神器: AI万能图片在线编辑器, https://img.logosc.cn
@@ -132,7 +132,7 @@
 - PicTech AI: 免费的在线图片翻译工具，支持一键抠图, https://www.pictech.cc
 
 ## AI 视频生成工具
-- 智谱清影: 智谱AI推出的AI视频生成工具，支持文生视频、图生视频, https://ai-bot.cn/chatglm-video
+- 智谱清影: 智谱AI推出的AI视频生成工具，支持文生视频、图生视频, https://chatglm.paluai.com/video
 - 有言: 一站式AI视频创作，1200+免费3D数字人, https://youyan.xyz/platform/home/prime
 - 星火绘镜: 科大讯飞推出的AI短视频创作平台, https://typemovie.art
 - 即创: 抖音推出的一站式智能创作平台，支持视频、图文和直播创作, https://aic.oceanengine.com
@@ -140,19 +140,19 @@
 - Viggle: AI生成角色动态视频的工具, https://viggle.ai
 - 秒创: 简单好用的AI智能视频创作平台, https://aigc.yizhentv.com
 - 巨日禄: 一站式AI动漫视频创作平台, https://aibot.jurilu.com
-- 通义万相AI视频: 阿里推出的免费AI视频生成工具，支持文生视频和图生视频, https://ai-bot.cn/tongyi-wanxvideo
-- PixVerse: 爱诗科技推出的AI视频生成工具, https://ai-bot.cn/pixverse-ai-video-generator
+- 通义万相AI视频: 阿里推出的免费AI视频生成工具，支持文生视频和图生视频, https://tongyi.aliyun.com/wanxiang/videoCreation
+- PixVerse: 爱诗科技推出的AI视频生成工具, https://pixverse.ai
 - Dream Machine: Luma推出的AI视频生成工具，120秒内可生成120帧视频, https://lumalabs.ai/dream-machine
 - Vidu: 生数科技与清华大学联合发布的AI视频大模型, https://www.vidu.studio
-- HeyGen: AIGC 视频创建平台，生成吸引人的商业视频, https://ai-bot.cn/heygen
+- HeyGen: AIGC 视频创建平台，生成吸引人的商业视频, https://www.heygen.com
 - Sora: OpenAI推出的AI文本到视频生成模型, https://openai.com/sora
 - Runway: 强大的AI视频制作工具，绿幕抠像、视频合成等, https://runwayml.com
 - Vozo: 集一键重写脚本、配音、对口型、翻译于一体的AI视频编辑工具, https://www.vozo.ai
-- Tavus: AI视频生成平台，支持数字人克隆和实时AI视频对话, https://ai-bot.cn/tavus
+- Tavus: AI视频生成平台，支持数字人克隆和实时AI视频对话, https://www.tavus.io
 - SkyReels: 昆仑万维推出的全球首个AI短剧创作平台, https://skyreels.ai/beta
 - MOKI: 美图推出的AI视频短片创作工具, https://www.moki.cn
-- 神笔马良: 首个面向长剧本解析的动态故事板AI生成工具，让剧本一键成片, https://ai-bot.cn/shenbi-maoyan
-- Video Ocean: 潞晨科技推出的多功能AI视频生成平台, https://ai-bot.cn/video-ocean
+- 神笔马良: 首个面向长剧本解析的动态故事板AI生成工具，让剧本一键成片, https://shenbi.maoyan.com
+- Video Ocean: 潞晨科技推出的多功能AI视频生成平台, https://video-ocean.com
 - Flow Studio: AI视频生成工具，一键生成电影级质量的3分钟长视频, https://flowgpt.com/flow-studio
 - 即梦AI: 抖音旗下免费AI绘画和视频生成工具, https://jimeng.paluai.com/ai-tool
 - Vizard: 将长视频转换为社交短视频片段的AI视频工具, https://vizard.ai
@@ -165,7 +165,7 @@
 - Noisee AI: 月之暗面旗下推出的AI音乐视频MV生成工具, https://noisee.ai
 - Stable Video: Stability AI上线的AI视频生成工具, https://www.stablevideo.com
 - AdsDog: AI营销工具，一键生成多语言数字人口播视频, https://adsdog.net
-- D-ID: AI真人口播视频生成工具, https://ai-bot.cn/sites/987.html
+- D-ID: AI真人口播视频生成工具, https://www.d-id.com
 - 腾讯智影: 腾讯推出的在线智能视频创作平台, https://zenvideo.qq.com
 - 万兴播爆: AI数字人口播视频营销工具（可商用），海量素材一键套用, https://virbo.wondershare.cn/promotion-invitee.html
 - Vimi: 商汤科技推出的可控人物视频生成AI模型, https://www.sensetime.com/cn/product-detail
@@ -252,12 +252,12 @@
 - GitHub Copilot: GitHub推出的AI编程工具, https://github.com/features/copilot
 - CodeWhisperer: 亚马逊推出的免费AI编程助手, https://aws.amazon.com/codewhisperer
 - 文心快码: 百度推出的AI编程助手，基于文心大模型, https://comate.baidu.com
-- Genie: Cosine AI推出的AI编程助手, https://ai-bot.cn/genie
+- Genie: Cosine AI推出的AI编程助手, https://cosine.sh
 - Cursor: AI代码编辑器，快速进行编程和软件开发, https://www.cursor.com
-- Replit Agent: AI初创公司Replit推出的AI编程工具, https://ai-bot.cn/replit-agent
+- Replit Agent: AI初创公司Replit推出的AI编程工具, https://replit.com
 - CodeGeeX: 智谱AI推出的免费AI编程助手, https://codegeex.cn/zh-CN
 - iFlyCode: 科大讯飞推出的智能编程助手, https://iflycode.xfyun.cn
-- Bolt.new: StackBlitz 推出的全栈AI代码工具，可以看作 Artfacts、V0 和 Replit 的结合体, https://ai-bot.cn/bolt%E2%80%A4new
+- Bolt.new: StackBlitz 推出的全栈AI代码工具，可以看作 Artfacts、V0 和 Replit 的结合体, https://bolt.new
 - Codeium: 免费的AI编程工具，智能生成和补全代码, https://www.codeium.com
 - Cody: Sourcegraph推出的免费AI编程工具, https://about.sourcegraph.com/cody
 - DevChat: 开源的支持多款大模型的AI编程助手, https://www.devchat.ai/zh
@@ -290,7 +290,7 @@
 
 ## AI 搜索工具
 - Perplexity: 强大的对话式AI搜索引擎, https://www.perplexity.ai
-- SearchGPT: OpenAI最新推出的AI搜索引擎，内测开放, https://ai-bot.cn/sites/14609.html
+- SearchGPT: OpenAI最新推出的AI搜索引擎，内测开放, https://openai.com/index/searchgpt-prototype/
 - AMiner: 智谱AI推出的大模型学术平台, https://www.aminer.cn
 - Lumina: 完全免费的AI学术搜索引擎, https://lumina.sh
 - 知乎直答: 知乎推出的AI搜索引擎，直达问题答案, https://zhida.zhihu.com
@@ -369,8 +369,8 @@
 - BGM猫: 灵动音科技推出的AI智能生成BGM音乐, https://bgmcat.com/home
 
 ## AI 开发平台
-- Zion: 全栈开发AI Agent应用的无代码开发平台, https://ai-bot.cn/zion
-- Wordware: 零代码构建AI Agent和应用的开发平台, https://ai-bot.cn/wordware
+- Zion: 全栈开发AI Agent应用的无代码开发平台, https://zion.com
+- Wordware: 零代码构建AI Agent和应用的开发平台, https://wordware.com
 - SkyAgents: 昆仑万维推出的 AI Agent 开发平台, https://model-platform-skyagents.tiangong.cn/home/agent
 - 百宝箱Tbox: 蚂蚁集团推出的一站式 AI 原生应用开发平台, https://tbox.alipay.com
 - 豆包大模型: 字节跳动推出的AI大模型家族，包括视频生成、语音视觉、通用语言模型等, https://www.volcengine.com/product/doubao
@@ -403,12 +403,11 @@
 - Anakin.ai: 一站式无代码AI应用构建平台, https://anakin.ai/zh-cn
 
 ## AI 大模型
-- GPT-4o: OpenAI最新发布的多模态AI大模型，可自然流畅地进行语音对话, https://ai-bot.cn/openai-gpt-4o
+- GPT-4o: OpenAI最新发布的多模态AI大模型，可自然流畅地进行语音对话, https://openai.com/research/gpt-4o
 - Llama 3: Meta最新开源推出的新一代大模型, https://llama.meta.com/llama3
 - Gemma: 谷歌推出的新一代轻量级开放模型, https://ai.google.dev/gemma
 - 腾讯混元大模型: 腾讯研发的大语言模型，具备强大的中文创作能力，复杂语境下的逻辑推理能力，以及可靠的任务执行能力, https://hunyuan.tencent.com
-- GPT-4: OpenAI旗下最新的GPT-4模型, https://ai-bot.cn/sites/49.html
-- DALL·E 3: OpenAI旗下最新的图像生成模型, https://ai-bot.cn/sites/50.html
+- DALL·E 3: OpenAI旗下最新的图像生成模型, https://openai.com/research/dall-e-3
 - 文心大模型: 百度推出的产业级知识增强大模型, https://wenxin.baidu.com
 - LLaMA: Meta（Facebook）推出的AI大语言模型, https://github.com/facebookresearch/llama
 - Auto-GPT: 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星, https://agpt.co
@@ -456,7 +455,7 @@
 - Originality.AI: 原创度和AI内容检测, https://originality.ai
 - CopyLeaks: AI内容检测和分级, https://copyleaks.com
 - Winston AI: 强大的AI内容检测解决方案, https://gowinston.ai
-- CheckforAI: 免费在线检测AI内容, https://ai-bot.cn/sites/599.html
+- CheckforAI: 免费在线检测AI内容, https://checkforai.com
 
 ## AI 翻译工具
 - 腾讯交互翻译: 腾讯推出的多语言AI翻译工具, https://transmart.qq.com
