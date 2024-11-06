@@ -1,0 +1,96 @@
+id	category	 name	desc	url
+87	AI大模型	GPT-4	OpenAI旗下最新的GPT-4模型	https://openai.com/research/gpt-4
+88	AI大模型	DALL·E 3	OpenAI旗下最新的图像生成模型	https://openai.com/dall-e-3
+159	AI绘画工具	Stable Diffusion	StabilityAI推出的文本到图像生成AI	https://stability.ai/stable-diffusion
+237	AI开发工具	OpenGPT	开源ChatGPT工具箱，创建属于自己的ChatGPT应用	https://opengpt.com
+321	AI设计工具	NightCafe	AI艺术插画在线生成	https://nightcafe.studio
+322	AI设计工具	niji・journey	魔法般的二次元绘画生成	https://nijijourney.com
+323	AI设计工具	Deep Dream Generator	AI创建生成梦幻般的插画图片，刻画你的梦中场景	https://deepdreamgenerator.com
+325	AI设计工具	BlueWillow	免费的AI图像艺术画生成工具	https://bluewillow.ai
+326	AI设计工具	Waifu Labs	免费在线AI生成二次元动漫头像	https://waifulabs.com
+327	AI设计工具	dreamlike.art	免费在线插画生成工具	https://dreamlike.art
+328	AI设计工具	Artbreeder	创建令人惊叹的插画和艺术	https://artbreeder.com
+331	AI设计工具	Wepik AI	Freepik推出的AI文本到图像的在线生成工具	https://wepik.com
+332	AI设计工具	Craiyon	免费在线文本到图像生成	https://craiyon.com
+334	AI设计工具	Photosonic	Writesonic推出的AI艺术插画生成工具	https://writesonic.com/photosonic
+335	AI设计工具	Astria	可定制的人工智能图像生成	https://astria.com
+336	AI设计工具	getimg.ai	在线AI图像和插画创作工具	https://getimg.ai
+337	AI设计工具	DreamUp	DeviantArt推出的AI插画生成工具	https://deviantart.com/dreamup
+338	AI设计工具	Scribble Diffusion	将草图转变为精美的插画	https://scribblediffusion.com
+339	AI设计工具	Lexica	基于Stable Diffusion的在线插画生成	https://lexica.art
+340	AI设计工具	Generated Photos	AI人脸头像生成工具	https://generated.photos
+341	AI设计工具	Picsart AI	Picsart推出的AI图片生成器	https://picsart.com/ai
+342	AI设计工具	Imagine by Magic Studio	AI文字到图片生成	https://magicstudio.com/imagine
+343	AI设计工具	neural.love	AI艺术图片生成	https://neural.love
+344	AI设计工具	starryai	AI艺术图片生成	https://starryai.com
+345	AI设计工具	Artssy	AI图像生成	https://artssy.com
+346	AI设计工具	ShutterStock AI图片生成	Shutterstock推出的AI图片生成工具	https://shutterstock.com/ai
+347	AI设计工具	Playform	专业的高质量AI艺术画生成平台	https://playform.io
+348	AI设计工具	Photo Booth by Magic Studio	AI创建个人资料图片	https://magicstudio.com/photo-booth
+349	AI设计工具	Supermeme	AI MEME梗图生成器	https://supermeme.ai
+351	AI设计工具	Dream.ai	WOMBO推出的AI艺术画生成工具	https://dream.ai
+355	AI设计工具	Prodia	AI艺术画生成工具	https://prodia.com
+356	AI设计工具	Lucidpic	AI生成高质量人像照片	https://lucidpic.com
+357	AI设计工具	AI Photos	AI图片艺术美化	https://aiphotos.com
+457	AI视频工具	D-ID	AI真人口播视频生成工具	https://d-id.com
+507	AI视频工具	Artflow	AI创建生成视频动画	https://artflow.ai
+508	AI视频工具	Kaiber	图片文字转视频的AI引擎	https://kaiber.ai
+515	AI视频工具	Fliki	AI文字转视频并配音	https://fliki.ai
+517	AI视频工具	DeepBrain	AI口播视频生成工具	https://deepbrain.io
+518	AI视频工具	Synthesia	AI视频生成平台	https://synthesia.io
+519	AI视频工具	Lumen5	AI将博客文章转换成视频	https://lumen5.com
+520	AI视频工具	Rephrase.ai	AI文字到视频生成	https://rephrase.ai
+547	AI搜索工具	SearchGPT	OpenAI最新推出的AI搜索引擎，内测开放	https://searchgpt.com
+621	AI图像工具	Hotpot.ai	AI图片图像处理和生成工具	https://hotpot.ai
+622	AI图像工具	DeepAI	在线AI图片生成和编辑	https://deepai.org
+626	AI图像工具	Canva AI图像生成	在线设计工具Canva推出的AI图像生成工具	https://canva.com/ai-image-generator
+630	AI图像工具	Adobe Firefly	Adobe最新推出的AI图片生成工具	https://adobe.com/firefly
+634	AI图像工具	Visual Electric	专业的高质量AI图像创作工具	https://visualelectric.com
+636	AI图像工具	Imagine with Meta	Meta最新推出的在线AI图像生成器	https://meta.com/imagine
+638	AI图像工具	Stockimg AI	AI生成各种类型的图像和插画	https://stockimg.ai
+737	AI写作工具	Notion AI	Notion推出的AI内容创作助手	https://notion.so/ai
+738	AI写作工具	Jasper	AI文字内容创作工具	https://jasper.ai
+740	AI写作工具	Rytr	AI内容生成和写作助手	https://rytr.me
+751	AI写作工具	Copy.ai	人工智能营销文案和内容创作工具	https://copy.ai
+755	AI写作工具	Writesonic	AI写作，文案，释义工具	https://writesonic.com
+757	AI写作工具	Jenni	AI研究文章和博客写作辅助工具	https://jenni.ai
+775	AI写作工具	Moonbeam	长文章AI内容创作助手	https://moonbeam.ai
+776	AI写作工具	Cohesive	人工智能文案内容创作和编辑工具	https://cohesive.so
+780	AI写作工具	Magic Write	Canva旗下AI文案生成器	https://canva.com/magic-write
+782	AI写作工具	Spell.tools	高颜值AI内容营销创作工具	https://spell.tools
+783	AI写作工具	HyperWrite	AI写作助手帮助你创作内容更自信	https://hyperwrite.ai
+784	AI写作工具	Typeface AI	AI创意内容创作助手	https://typeface.ai
+799	AI写作工具	ContentBot	AI快速写作工具	https://contentbot.ai
+800	AI写作工具	Bearly	AI阅读总结、写作和内容生成助手	https://bearly.ai
+802	AI写作工具	Peppertype.ai	高质量AI内容生成	https://peppertype.ai
+803	AI写作工具	Compose AI	免费的Chrome浏览器自动化写作扩展	https://compose.ai
+804	AI写作工具	Texta	AI博客和文章一键生成	https://texta.ai
+806	AI写作工具	ClosersCopy	AI文案写作机器人	https://closerscopy.com
+808	AI写作工具	Anyword	AI文案写作助手和文本生成器	https://anyword.com
+809	AI写作工具	Hypotenuse AI	人工智能写作助手和文本生成器	https://hypotenuse.ai
+811	AI写作工具	ParagraphAI	基于ChatGPT的AI写作应用	https://paragraphai.com
+812	AI写作工具	LongShot	AI长文章写作工具	https://longshot.ai
+813	AI写作工具	Jounce	无限制免费AI文案写作	https://jounce.ai
+814	AI写作工具	Reword	AI文章写作	https://reword.com
+815	AI写作工具	Elephas	与Mac、iPhone、iPad集成的个人写作助手	https://elephas.app
+816	AI写作工具	AISEO	AI创作SEO优化友好的文案和文章	https://aiseo.ai
+818	AI写作工具	Writer	企业级AI内容创作工具	https://writer.com
+823	AI写作工具	SurferSEO	AI SEO大纲和内容优化写作工具	https://surferseo.com
+825	AI写作工具	WordTune	你的个人写作助手和编辑	https://wordtune.com
+943	AI助手	ChatGPT	OpenAI旗下AI对话工具	https://chat.openai.com
+945	AI助手	Bing新必应	微软推出的新版结合了ChatGPT功能的必应	https://bing.com
+947	AI助手	Claude	ChatGPT的最为有力的竞争对手之一	https://claude.ai
+954	AI助手	Character.AI	创建虚拟角色并与其对话	https://character.ai
+955	AI助手	Google Bard	Google推出的AI聊天对话机器人Bard	https://bard.google.com
+986	AI助手	Forefront	提供GPT-3.5、GPT-4、Claude的AI聊天机器人	https://forefront.ai
+987	AI助手	HuggingChat	HuggingFace推出的在线聊天机器人，基于Open Assistant模型	https://huggingface.co/chat
+988	AI助手	Poe	问答社区Quora推出的问答机器人工具	https://poe.com
+991	AI助手	ColossalChat	Colossal-AI推出的免费开源版ChatGPT聊天机器人替代品	https://colossal.ai
+992	AI助手	Jasper Chat	Jasper针对内容创作者出品的AI聊天工具	https://jasper.ai/chat
+993	AI助手	YouChat AI	AI搜索对话工具	https://youchat.ai
+994	AI助手	ChatSonic	WriteSonic出品的ChatGPT竞品	https://writesonic.com/chatsonic
+995	AI助手	Replika	AI对话陪伴工具	https://replika.ai
+996	AI助手	Whispr	免费AI对话回应	https://whispr.ai
+997	AI助手	Open Assistant	免费开源的对话式AI，GitHub星标超3万	https://open-assistant.io
+998	AI助手	Pi	DeepMind联创新公司推出的AI聊天机器人	https://pi.ai
+1001	AI助手	Inworld	开发和创建AI虚拟角色并与其互动	https://inworld.ai
