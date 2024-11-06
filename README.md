@@ -369,15 +369,36 @@
 - **BGM猫**: 灵动音科技推出的AI智能生成BGM音乐, https://bgmcat.com/home
 
 ## AI 开发平台
-- **Zion**: 全栈开发AI Agent应用的无代码开发平台, https://zion.com
-- **Wordware**: 零代码构建AI Agent和应用的开发平台, https://wordware.com
-- **SkyAgents**: 昆仑万维推出的 AI Agent 开发平台, https://model-platform-skyagents.tiangong.cn/home/agent
-- **百宝箱Tbox**: 蚂蚁集团推出的一站式 AI 原生应用开发平台, https://tbox.alipay.com
-- **豆包大模型**: 字节跳动推出的AI大模型家族，包括视频生成、语音视觉、通用语言模型等, https://www.volcengine.com/product/doubao
+- **HuggingFace**: AI模型开发社区, https://huggingface.co
+- **飞桨PaddlePaddle**: 开源深度学习平台, https://www.paddlepaddle.org.cn
+- **昇思MindSpore**: 华为开源自研AI深度学习框架, https://www.mindspore.cn
 - **文心智能体平台**: 百度推出的智能体构建平台, https://agents.baidu.com
+- **百宝箱Tbox**: 蚂蚁集团推出的一站式 AI 原生应用开发平台, https://tbox.alipay.com
 - **言犀智能体平台**: 京东推出的一站式AI智能体开发平台, https://yanxi.jd.com
+- **SkyAgents**: 昆仑万维推出的 AI Agent 开发平台, https://model-platform-skyagents.tiangong.cn/home/agent
 - **Gumloop**: AI零代码工作流平台，支持用户自定义工作流程, https://www.gumloop.com
 - **BetterYeah AI**: 企业AI应用和助手构建平台, https://www.betteryeah.com
+- **Zion**: 全栈开发AI Agent应用的无代码开发平台, https://zion.com
+- **Wordware**: 零代码构建AI Agent和应用的开发平台, https://wordware.com
+- **PyTorch**: 开源机器学习框架, https://pytorch.org
+- **TensorFlow**: Google推出的机器学习和人工智能开源库, https://www.tensorflow.org
+- **Apache MXNet**: 免费开源的深度学习框架, https://mxnet.apache.org
+- **Scikit-learn**: Python机器学习库, https://scikit-learn.org
+- **MLX**: 苹果推出的开源机器学习框架，专为Apple Silicon芯片设计, https://ml-explore.github.io/mlx/build/html/index.html
+- **Label Studio**: 免费开源的数据标注工具, https://labelstud.io
+- **Vercel AI SDK**: Vercel开源的搭建AI聊天机器人的开发套件，支持React/Svelte/Vue等框架, https://sdk.vercel.ai/docs
+- **Keras**: Python版本的TensorFlow深度学习API, https://keras.io
+- **Caffe**: UC伯克利研究推出的深度学习框架, https://caffe.berkeleyvision.org
+- **NumPy**: Python科学计算必备的包, https://numpy.org
+- **DL4J**: 开源的使用JVM部署和训练深度学习模型的套件, https://deeplearning4j.konduit.ai
+- **JAX**: Google推出的用于变换数值函数的机器学习框架, https://jax.readthedocs.io/en/latest
+- **NLTK**: Python自然语言处理工具包, https://www.nltk.org
+- **LangChain**: 开发由语言模型驱动的应用程序的框架, https://docs.langchain.com/docs
+- **Lightning AI**: 快速训练、部署和开发人工智能产品的深度学习框架，由Pytorch Lightning团队推出, https://lightning.ai
+- **Leap**: 将AI快速集成到你自己的应用中, https://www.tryleap.ai
+- **ChatDev**: 面壁智能推出的AI智能体软件开发平台，使用自然语言即可创建软件, https://chatdev.modelbest.cn
+- **天壤小白**: 灵活的AI应用构建和开发平台, https://www.tianrang.com
+- **Anakin.ai**: 一站式无代码AI应用构建平台, https://anakin.ai/zh-cn
 
 ## AI 开源框架
 - **飞桨PaddlePaddle**: 开源深度学习平台, https://www.paddlepaddle.org.cn
