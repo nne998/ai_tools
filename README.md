@@ -403,69 +403,18 @@
 - **Anakin.ai**: 一站式无代码AI应用构建平台, https://anakin.ai/zh-cn
 
 ## AI 大模型
-- **GPT-4o**: OpenAI 最新发布的多模态 AI 大模型，可自然流畅地进行语音对话, https://openai.com/research/gpt-4o
-- **yi-lightning(new)**: 暂无相关介绍, 暂无官网信息。
-- **百度 ERNIE-4.0-Turbo**: 百度推出的产业级知识增强大模型“文心大模型”的最新版本，具备更强的中文创作能力、复杂语境下的逻辑推理能力，以及可靠的任务执行能力, https://wenxin.baidu.com
-- **百度 ERNIE-3.5-8K**: 百度文心大模型的 3.5 版本，支持 8K 上下文长度，增强了模型的理解和生成能力, https://wenxin.baidu.com
-- **gpt-4-turbo**: OpenAI 的 GPT-4 的升级版本，具有更快的响应速度和更强的生成能力, https://openai.com
-- **qwen2.5-32b-instruct**: 阿里巴巴推出的最新大语言模型“Qwen2.5”，具备高效的自然语言处理能力，参数规模为 32B，针对指令进行了优化, https://qwen.aliyun.com
-- **gpt-4o-mini**: GPT-4o 的轻量化版本，提供更高效的计算性能, https://openai.com
-- **百度 ERNIE-4.0**: 百度文心大模型的 4.0 版本，进一步提升了模型的理解和生成能力, https://wenxin.baidu.com
-- **qwen2.5-14b-instruct**: 阿里巴巴的 Qwen2.5 大语言模型，参数规模为 14B，针对指令进行了优化，具备高效的自然语言处理能力, https://qwen.aliyun.com
-- **deepseek-chat-v2**: 暂无相关介绍, 暂无官网信息。
-- **GLM-4-Plus(new)**: 暂无相关介绍, 暂无官网信息。
-- **Qwen2-72B-Instruct**: 阿里巴巴推出的 Qwen2 系列大模型，参数规模为 72B，针对指令进行了优化, https://qwen.aliyun.com
-- **qwen2.5-72b-instruct**: 阿里巴巴的 Qwen2.5 大语言模型，参数规模为 72B，具备高效的自然语言处理能力, https://qwen.aliyun.com
-- **豆包 Doubao-pro-32k**: 暂无相关介绍, 暂无官网信息。
-- **gemini-1.5-pro(new)**: 暂无相关介绍, 暂无官网信息。
-- **gemini-1.5-flash(new)**: 暂无相关介绍, 暂无官网信息。
-- **讯飞 4.0 Ultra**: 科大讯飞推出的新一代大模型，具备更强的语言理解和生成能力, https://www.iflytek.com
-- **Llama-3.1-70B-Instruct**: Meta 最新开源的新一代大模型 Llama 3.1，参数规模为 70B，针对指令进行了优化, https://llama.meta.com/llama3
-- **阿里 qwen-max**: 阿里巴巴推出的大模型，具备强大的自然语言处理能力, https://qwen.aliyun.com
-- **yi-medium**: 暂无相关介绍, 暂无官网信息。
-- **minimax-abab6.5-chat**: 暂无相关介绍, 暂无官网信息。
-- **Llama-3-70B-Instruct**: Meta 的 Llama 3 大模型，参数规模为 70B，针对指令进行了优化, https://llama.meta.com/llama3
-- **GLM-4-Long(new)**: 智谱 AI 推出的 GLM-4 系列新模型，支持长文本处理, https://www.zhipu.ai
-- **qwen2.5-7b-instruct**: 阿里巴巴的 Qwen2.5 大语言模型，参数规模为 7B，针对指令进行了优化, https://qwen.aliyun.com
-- **internlm2_5-20b-chat**: 暂无相关介绍, 暂无官网信息。
-- **百度 Baichuan3-Turbo**: 百度推出的 Baichuan3 大模型的 Turbo 版本，具有更快的响应速度, https://www.baichuan-ai.com
-- **yi-large**: 暂无相关介绍, 暂无官网信息。
-- **minimax-abab6.5s-chat**: 暂无相关介绍, 暂无官网信息。
-- **讯飞星火 v3.5(spark-max)**: 科大讯飞推出的星火大模型 v3.5 版本，具备更强的语言理解和生成能力, https://www.iflytek.com
-- **百度 Baichuan4**: 百度推出的 Baichuan 系列最新大模型, https://www.baichuan-ai.com
-- **智谱 GLM4**: 智谱 AI 推出的 GLM4 大模型，具备强大的自然语言处理能力, https://www.zhipu.ai
-- **智谱 GLM-4-Air**: 智谱 AI 的轻量化 GLM-4 版本，提供高效的计算性能, https://www.zhipu.ai
-- **智谱 GLM-4-AirX**: 智谱 AI 的 GLM-4-Air 的升级版本，进一步提升了模型性能, https://www.zhipu.ai
-- **阿里 qwen-plus**: 阿里巴巴的 Qwen 系列大模型的升级版本，具备更强的自然语言处理能力, https://qwen.aliyun.com
-- **qwen2-57b-a14b-instruct**: 阿里巴巴推出的 Qwen2 大模型，参数规模为 57B，具备强大的语言处理能力, https://qwen.aliyun.com
-- **Qwen1.5-32B-Chat**: 阿里巴巴的 Qwen1.5 大模型，参数规模为 32B，优化了对话能力, https://qwen.aliyun.com
-- **gemma-2-9b-it**: 谷歌推出的新一代轻量级开放模型 Gemma，参数规模为 9B，专注于 IT 领域, https://ai.google.dev/gemma
-- **yi-large-turbo**: 暂无相关介绍, 暂无官网信息。
-- **讯飞星火 v3(spark-pro)**: 科大讯飞的星火大模型 v3 版本, https://www.iflytek.com
-- **阿里 qwen-long**: 阿里巴巴的 Qwen 系列长文本处理模型, https://qwen.aliyun.com
-- **gpt-3.5-turbo**: OpenAI 的 GPT-3.5 升级版本，具有更快的响应速度和更强的生成能力, https://openai.com
-- **Qwen1.5-72B-Chat**: 阿里巴巴的 Qwen1.5 大模型，参数规模为 72B，优化了对话能力, https://qwen.aliyun.com
-- **月之暗面 moonshot-v1-8k**: 暂无相关介绍, 暂无官网信息。
-- **glm-4-9b-chat**: 智谱 AI 的 GLM-4 系列 9B 参数对话模型, https://www.zhipu.ai
-- **Qwen2-7B-Instruct**: 阿里巴巴的 Qwen2 系列大模型，参数规模为 7B，针对指令进行了优化, https://qwen.aliyun.com
-- **Qwen1.5-14B-Chat**: 阿里巴巴的 Qwen1.5 大模型，参数规模为 14B，优化了对话能力, https://qwen.aliyun.com
-- **gemini-1.0-pro(new)**: 暂无相关介绍, 暂无官网信息。
-- **Yi-1.5-34B-Chat**: 暂无相关介绍, 暂无官网信息。
-- **智谱 GLM-4-Flash**: 智谱 AI 的 GLM-4 系列高效版本，提供更快速的响应, https://www.zhipu.ai
-- **yi-spark**: 暂无相关介绍, 暂无官网信息。
-- **百度 ERNIE-Speed-8K**: 百度文心大模型的快速版本，支持 8K 上下文长度, https://wenxin.baidu.com
-- **商汤 SenseChat-v4**: 商汤科技推出的 SenseChat 大模型 v4 版本, https://www.sensetime.com
-- **internlm2_5-7b-chat**: 暂无相关介绍, 暂无官网信息。
-- **Llama-3-8B-Instruct**: Meta 的 Llama 3 大模型，参数规模为 8B，针对指令进行了优化, https://llama.meta.com/llama3
-- **qwen2.5-3b-instruct**: 阿里巴巴的 Qwen2.5 大模型，参数规模为 3B，针对指令进行了优化, https://qwen.aliyun.com
-- **qwen-turbo**: 阿里巴巴的 Qwen 系列大模型的高效版本，具有更快的响应速度, https://qwen.aliyun.com
-- **internlm2-chat-20b**: 暂无相关介绍, 暂无官网信息。
-- **Yi-1.5-9B-Chat**: 暂无相关介绍, 暂无官网信息。
-- **Llama-3.1-8B-Instruct**: Meta 的 Llama 3.1 大模型，参数规模为 8B，针对指令进行了优化, https://llama.meta.com/llama3
-- **商汤 SenseChat-Turbo**: 商汤科技的 SenseChat 大模型的高效版本, https://www.sensetime.com
-- **豆包 Doubao-lite-32k**: 暂无相关介绍, 暂无官网信息。
-- **openbuddy-llama3-8b**: 暂无相关介绍, 暂无官网信息。
-- **DeepSeek-V2-Lite-Chat**: 暂无相关介绍, 暂无官网信息。
+- **ChatGPT**: OpenAI 最新发布的多模态 AI 大模型，可自然流畅地进行语音对话, https://openai.com
+- **文心一言**: 百度推出的产业级知识增强大模型“文心大模型”的最新版本，具备更强的中文创作能力、复杂语境下的逻辑推理能力，以及可靠的任务执行能力, https://wenxin.baidu.com
+- **通义千问**: 阿里巴巴推出的大模型，具备强大的自然语言处理能力, https://qwen.aliyun.com
+- **豆包**: 字节跳动推出的高性能AI大模型，专注于自然语言处理和生成，支持多种语言的文本分析与生成, https://doubao.com
+- **Claude 3.5**：由 Anthropic 推出的 AI 大模型，专注于对话和自然语言理解，具备优秀的上下文理解和信息提取能力，https://www.anthropic.com
+- **Gemini**: Google推出的多模态AI大模型，具备图像识别、文本生成和语音处理能力，适用于多领域的智能应用开发。https://gemini.google.com
+- **星火大模型**: 科大讯飞推出的新一代大模型，具备更强的语言理解和生成能力, https://xinghuo.xfyun.cn
+- **Llama 3**: Meta 最新开源的新一代大模型 Llama 3.1，参数规模为 70B，针对指令进行了优化, https://llama.meta.com/llama3
+- **智谱GLM4**: 智谱 AI 推出的 GLM-4 系列新模型，支持长文本处理, https://www.zhipu.ai
+- **百川大模型**: 百度推出的 Baichuan 系列最新大模型, https://www.baichuan-ai.com
+- **商汤商量**: 商汤科技的 SenseChat 大模型的高效版本, https://www.sensetime.com
+
 
 ## AI 内容检测工具
 - **Mitata AI**: 专业的AI文章检测工具，能识别文章是否由AI生成, https://www.copyleaks.top/login
